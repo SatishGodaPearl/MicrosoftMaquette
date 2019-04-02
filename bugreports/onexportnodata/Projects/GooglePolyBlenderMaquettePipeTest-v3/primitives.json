@@ -1,0 +1,234 @@
+{
+  "primitives": [
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "685a0c52-5469-4f18-a8fc-e452e139bdff",
+      "name": "gp_CoconutPalmTree_56"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "9cb13294-66ea-4fd8-8288-d7af29194ef9",
+      "name": "gp_CoconutPalmTree_57"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "ec246692-a654-48fd-86d2-a82d88d3d94e",
+      "name": "gp_CoconutPalmTree_58"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "331d642c-fe20-4389-8498-383440dd028c",
+      "name": "gp_CoconutPalmTree_59"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "45d11d6d-e93a-483f-a523-5cd11d1ce488",
+      "name": "gp_CoconutPalmTree_60"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CoconutPalmTree.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -2.31637573,
+          "y": 13.53965,
+          "z": -0.669618845
+        },
+        "extents": {
+          "x": 6.376195,
+          "y": 13.53965,
+          "z": 6.07902145
+        }
+      },
+      "guid": "c513549c-b2fa-41ad-a525-24f515bbcc39",
+      "name": "gp_CoconutPalmTree_64"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\b3d_env_Terrain.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": 0.0,
+          "y": 12.9004021,
+          "z": 0.0
+        },
+        "extents": {
+          "x": 100.0,
+          "y": 26.3621635,
+          "z": 100.0
+        }
+      },
+      "guid": "2c242c80-cba2-48e7-9d6c-ab397af5f33d",
+      "name": "b3d_env_Terrain_49"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CactusPipeOrgan.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -0.08296001,
+          "y": 2.644394,
+          "z": 0.02162844
+        },
+        "extents": {
+          "x": 1.972428,
+          "y": 2.644394,
+          "z": 1.667701
+        }
+      },
+      "guid": "4ef9a26c-9336-4c8d-95b4-5f0bf3965b39",
+      "name": "gp_CactusPipeOrgan_52"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CactusPipeOrgan.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -0.08296001,
+          "y": 2.644394,
+          "z": 0.02162844
+        },
+        "extents": {
+          "x": 1.972428,
+          "y": 2.644394,
+          "z": 1.667701
+        }
+      },
+      "guid": "53a172f6-8378-4681-98b5-9feb0e8f94bd",
+      "name": "gp_CactusPipeOrgan_53"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CactusPipeOrgan.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -0.08296001,
+          "y": 2.644394,
+          "z": 0.02162844
+        },
+        "extents": {
+          "x": 1.972428,
+          "y": 2.644394,
+          "z": 1.667701
+        }
+      },
+      "guid": "06933588-ee3a-43d3-ab72-35b5c1f83a68",
+      "name": "gp_CactusPipeOrgan_61"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CactusPipeOrgan.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -0.08296001,
+          "y": 2.644394,
+          "z": 0.02162844
+        },
+        "extents": {
+          "x": 1.972428,
+          "y": 2.644394,
+          "z": 1.667701
+        }
+      },
+      "guid": "be514d60-b016-49e2-90ba-0b2f5936a819",
+      "name": "gp_CactusPipeOrgan_62"
+    },
+    {
+      "primitiveType": "ModelFile",
+      "primitivePath": "<MAQUETTEOBJECT>\\gp_CactusPipeOrgan.glb",
+      "assetLoadOption": "Original",
+      "primitiveBounds": {
+        "center": {
+          "x": -0.08296001,
+          "y": 2.644394,
+          "z": 0.02162844
+        },
+        "extents": {
+          "x": 1.972428,
+          "y": 2.644394,
+          "z": 1.667701
+        }
+      },
+      "guid": "baa3ca11-cc85-4bbb-af39-91569a1d84ca",
+      "name": "gp_CactusPipeOrgan_63"
+    }
+  ],
+  "version": "13",
+  "fileType": "Primitives"
+}

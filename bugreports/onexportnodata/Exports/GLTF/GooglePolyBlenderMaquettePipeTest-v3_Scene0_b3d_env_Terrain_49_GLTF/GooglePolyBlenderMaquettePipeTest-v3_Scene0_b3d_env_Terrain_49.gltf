@@ -1,0 +1,17 @@
+{
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "GooglePolyBlenderMaquettePipeTest-v3_Scene0_b3d_env_Terrain_49.bin",
+      "byteLength": 0
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "GooglePolyBlenderMaquettePipeTest-v3_Scene0_b3d_env_Terrain_49"
+    }
+  ]
+}

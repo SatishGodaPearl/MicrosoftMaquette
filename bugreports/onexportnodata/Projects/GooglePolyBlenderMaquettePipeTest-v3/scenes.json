@@ -1,0 +1,891 @@
+{
+  "currentSceneIndex": 0,
+  "scenes": [
+    {
+      "sceneGuid": "1f424cbc-141e-4006-b837-b827faacb803",
+      "sceneName": "Scene_0",
+      "sequenceIndex": 0,
+      "treeRoots": [
+        {
+          "entityStateGuid": "85278a2b-0ee9-4eee-9613-ff9e42508c6b",
+          "targetEntityGuid": "2c242c80-cba2-48e7-9d6c-ab397af5f33d",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": 3.675293,
+              "y": 15.1231689,
+              "z": 5.86399555
+            },
+            "rotation": {
+              "x": 0.01827407,
+              "y": -0.205139428,
+              "z": -0.00513694575,
+              "w": 0.978548646
+            },
+            "scale": {
+              "x": 0.99999994,
+              "y": 1.00000012,
+              "z": 1.00000036
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "7a7bb59c-85e7-4323-878a-958dc80355a2",
+          "targetEntityGuid": "4ef9a26c-9336-4c8d-95b4-5f0bf3965b39",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -63.23962,
+              "y": 6.87591648,
+              "z": 32.1018
+            },
+            "rotation": {
+              "x": -0.09601339,
+              "y": -0.987709761,
+              "z": 0.0861467049,
+              "w": 0.0882588848
+            },
+            "scale": {
+              "x": 1.00000334,
+              "y": 1.00000072,
+              "z": 1.00000334
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "96cdd74a-91cd-461a-9668-d40e206c5a14",
+          "targetEntityGuid": "53a172f6-8378-4681-98b5-9feb0e8f94bd",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -62.53189,
+              "y": 6.00648832,
+              "z": 35.5323677
+            },
+            "rotation": {
+              "x": -0.11665839,
+              "y": -0.5708159,
+              "z": -0.019757513,
+              "w": 0.8125083
+            },
+            "scale": {
+              "x": 0.507161856,
+              "y": 0.507160068,
+              "z": 0.5071618
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "80b4f589-12dc-400c-a42d-d4d391e4c5d8",
+          "targetEntityGuid": "685a0c52-5469-4f18-a8fc-e452e139bdff",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -45.20991,
+              "y": 14.9599085,
+              "z": 18.7173271
+            },
+            "rotation": {
+              "x": -0.0297448132,
+              "y": -0.6858164,
+              "z": -0.118077666,
+              "w": -0.7175157
+            },
+            "scale": {
+              "x": 1.00000322,
+              "y": 0.99999994,
+              "z": 1.0000037
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "b7795d54-80b3-404a-947f-d9c103f8900a",
+          "targetEntityGuid": "9cb13294-66ea-4fd8-8288-d7af29194ef9",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -39.5049248,
+              "y": 14.0632725,
+              "z": 34.0041161
+            },
+            "rotation": {
+              "x": -0.0110766673,
+              "y": 0.9963086,
+              "z": 0.0311405361,
+              "w": -0.07922751
+            },
+            "scale": {
+              "x": 1.00000715,
+              "y": 1.00000012,
+              "z": 1.00000691
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "28f79afd-811d-4158-8918-7fb96efa9817",
+          "targetEntityGuid": "ec246692-a654-48fd-86d2-a82d88d3d94e",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -22.7067337,
+              "y": 14.3471947,
+              "z": 29.75
+            },
+            "rotation": {
+              "x": 0.007820813,
+              "y": 0.9362903,
+              "z": 0.0728101954,
+              "w": -0.3435085
+            },
+            "scale": {
+              "x": 1.0000093,
+              "y": 1.00000048,
+              "z": 1.00000834
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "3b8d73d3-4d52-4c33-8179-f454a2204415",
+          "targetEntityGuid": "331d642c-fe20-4389-8498-383440dd028c",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -28.55481,
+              "y": 15.8109722,
+              "z": 14.9605207
+            },
+            "rotation": {
+              "x": -0.0124335056,
+              "y": 0.613317847,
+              "z": 0.002111228,
+              "w": -0.7897357
+            },
+            "scale": {
+              "x": 1.00001073,
+              "y": 1.00000131,
+              "z": 1.00001025
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "24a774f2-7b3e-442a-8675-96e6f98adf6c",
+          "targetEntityGuid": "45d11d6d-e93a-483f-a523-5cd11d1ce488",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -36.272728,
+              "y": 13.3748779,
+              "z": 7.420907
+            },
+            "rotation": {
+              "x": 0.192613482,
+              "y": 0.302961767,
+              "z": -0.0235401616,
+              "w": -0.933038235
+            },
+            "scale": {
+              "x": 1.00001156,
+              "y": 1.00000179,
+              "z": 1.00001109
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "988fec7b-fe70-49d4-b2a0-c266f68a0493",
+          "targetEntityGuid": "06933588-ee3a-43d3-ab72-35b5c1f83a68",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -24.5346375,
+              "y": 4.39139032,
+              "z": 22.5982037
+            },
+            "rotation": {
+              "x": 0.0572770461,
+              "y": 0.563591242,
+              "z": 0.0185913853,
+              "w": 0.823855937
+            },
+            "scale": {
+              "x": 1.00000083,
+              "y": 1.00000012,
+              "z": 1.00000143
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "4a4e5c4c-82e6-430a-9e10-39a319f2188b",
+          "targetEntityGuid": "be514d60-b016-49e2-90ba-0b2f5936a819",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -35.0984268,
+              "y": 4.875205,
+              "z": 17.9887314
+            },
+            "rotation": {
+              "x": -0.008776852,
+              "y": 0.9245143,
+              "z": 0.0453004241,
+              "w": 0.37834397
+            },
+            "scale": {
+              "x": 1.00000286,
+              "y": 1.00000119,
+              "z": 1.00000393
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "3a5cda35-758c-4e04-ba28-c66acb441ca8",
+          "targetEntityGuid": "baa3ca11-cc85-4bbb-af39-91569a1d84ca",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -45.07258,
+              "y": 3.54030228,
+              "z": 19.7111168
+            },
+            "rotation": {
+              "x": -0.06248142,
+              "y": 0.9923099,
+              "z": 0.104514912,
+              "w": 0.0222226977
+            },
+            "scale": {
+              "x": 1.0000056,
+              "y": 1.00000131,
+              "z": 1.00000632
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "61c24dc8-e13f-4dcf-8faa-f51e430bfe14",
+          "targetEntityGuid": "c513549c-b2fa-41ad-a525-24f515bbcc39",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": 0.179108,
+              "y": 14.5399895,
+              "z": 1.814808
+            },
+            "rotation": {
+              "x": 0.005517674,
+              "y": -0.959303,
+              "z": 0.0115440506,
+              "w": -0.2820888
+            },
+            "scale": {
+              "x": 1.00000453,
+              "y": 1.00000119,
+              "z": 1.00000393
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "71d1c24d-7b80-4e24-81ef-9959499a5f98",
+          "targetEntityGuid": "f7c44dc1-3c2b-4034-bb82-88111e2a9c6c",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": 0.0999031,
+              "y": 2.47419167,
+              "z": 0.6609556
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": -0.664666057,
+              "z": 0.0,
+              "w": 0.7471406
+            },
+            "scale": {
+              "x": 0.9760269,
+              "y": 0.9760268,
+              "z": 0.9760269
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "f55a4612-b2c6-47de-81cd-d8ba20a31b62",
+          "targetEntityGuid": "7660061c-bd6e-4503-9b90-7d49660888c6",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -64.64122,
+              "y": 6.69583845,
+              "z": 35.2761536
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.9308225,
+              "z": 0.0,
+              "w": 0.3654716
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        },
+        {
+          "entityStateGuid": "975ef2df-f5a5-46fe-92cc-0187d21ed8f1",
+          "targetEntityGuid": "e02d5de2-7903-4178-89d9-2a17befcd912",
+          "visible": true,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+          },
+          "textEntityState": null,
+          "cachedTransform": {
+            "position": {
+              "x": -40.1563721,
+              "y": 2.56688023,
+              "z": 21.7484055
+            },
+            "rotation": {
+              "x": 0.0,
+              "y": 0.9672537,
+              "z": 0.0,
+              "w": 0.253811628
+            },
+            "scale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            }
+          },
+          "groupLevel": 0,
+          "parentStateGuid": "",
+          "children": null
+        }
+      ],
+      "sceneSettings": {
+        "Environment": {
+          "Lighting": {
+            "BackgroundTopColor": {
+              "r": 0.674455941,
+              "g": 0.380785584,
+              "b": 0.0857496038,
+              "a": 1.0
+            },
+            "BackgroundMiddleColor": {
+              "r": 0.764151,
+              "g": 0.764151,
+              "b": 0.764151,
+              "a": 1.0
+            },
+            "BackgroundBottomColor": {
+              "r": 0.443396,
+              "g": 0.443396,
+              "b": 0.443396,
+              "a": 1.0
+            },
+            "SunColor": {
+              "r": 0.674455941,
+              "g": 0.380785584,
+              "b": 0.0857496038,
+              "a": 1.0
+            },
+            "SunDirection": {
+              "x": 0.6309959,
+              "y": 0.346951365,
+              "z": -0.0451366454,
+              "w": 0.692410231
+            },
+            "SunIntensity": 1.52145755,
+            "FogColor": {
+              "r": 0.9339867,
+              "g": 0.9801958,
+              "b": 0.9999905,
+              "a": 1.0
+            },
+            "FogDensity": 0.0045,
+            "FloorVisibility": true,
+            "FogEnabled": true,
+            "ShadowEnabled": true
+          }
+        },
+        "CustomColors": {
+          "CurrentColor": {
+            "r": 0.09411765,
+            "g": 0.5882353,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "CustomColors": [
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            },
+            {
+              "IsUsed": false,
+              "ColorValue": {
+                "r": 0.0,
+                "g": 0.0,
+                "b": 0.0,
+                "a": 1.0
+              }
+            }
+          ]
+        },
+        "DefaultHotspotGuid": ""
+      }
+    }
+  ],
+  "version": "13",
+  "fileType": "Scenes"
+}

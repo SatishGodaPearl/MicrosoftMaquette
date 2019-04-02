@@ -1,0 +1,39 @@
+{
+  "hotspots": [
+    {
+      "XZPivotedHeadRotation": {
+        "x": 0.0,
+        "y": -0.6646661,
+        "z": 0.0,
+        "w": 0.7471406
+      },
+      "UISequenceIndex": 0,
+      "guid": "f7c44dc1-3c2b-4034-bb82-88111e2a9c6c",
+      "name": "Viewpoint 1"
+    },
+    {
+      "XZPivotedHeadRotation": {
+        "x": 0.0,
+        "y": 0.930822551,
+        "z": 0.0,
+        "w": 0.3654716
+      },
+      "UISequenceIndex": 1,
+      "guid": "7660061c-bd6e-4503-9b90-7d49660888c6",
+      "name": "Cactus on high ground"
+    },
+    {
+      "XZPivotedHeadRotation": {
+        "x": 0.0,
+        "y": 0.967253566,
+        "z": 0.0,
+        "w": 0.253812075
+      },
+      "UISequenceIndex": 2,
+      "guid": "e02d5de2-7903-4178-89d9-2a17befcd912",
+      "name": "GooglePolyBlenderMaquettePipeTest-v1"
+    }
+  ],
+  "version": "13",
+  "fileType": "Hotspots"
+}
